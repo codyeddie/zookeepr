@@ -101,28 +101,14 @@
       ]
     },
     {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
+      "name": "morty",
+      "species": "hooman",
+      "diet": "carnivore",
       "personalityTraits": [
-        "hungry"
+        "zany",
+        "anxious"
       ],
       "id": "10"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "11"
-    },
-    {
-      "id": "12"
-    },
-    {
-      "id": "13"
     }
   ]
 }
